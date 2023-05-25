@@ -85,6 +85,8 @@ protect my joints for a start, as her pulling me makes me run faster than my bod
 
 ## Prospect
 
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9127241752"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 During our vacation, I managed to run with Birdo on three different occasions. Every of those runs went better than the
 one before, so I will stick with the plan of doing short intervals with a bigger variety. I don't know if I would ever
 be in the position to constantly run a 5k race with her, let alone with other dogs. I see this as a fun activity I can
