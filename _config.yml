@@ -20,8 +20,7 @@
 
 title: Tims running blog
 description: >- # this means to ignore newlines until "baseurl:"
-  Thoughts and updates about running and canicross, 
-  might include opinions and non-running-topics from time to time
+  Thoughts and updates about running and canicross
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "running.javahippie.net" # the base hostname & protocol for your site, e.g. http://example.com
 
