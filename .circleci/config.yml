@@ -5,7 +5,7 @@ orbs:
 
 jobs:
   build:
-    executor: ruby/default
+    executor: ruby/default:3.1.2
     steps:
       - checkout
       - ruby/install-deps:
