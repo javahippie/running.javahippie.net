@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting Canicross training again"
-date: 2023-05-25 17:00:50 +0200
+date: 2023-05-25 16:00:50 +0200
 categories:
   - canicross
 ---
