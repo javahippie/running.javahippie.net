@@ -1,6 +1,6 @@
 version: 2.1
 orbs:
-  ruby: circleci/ruby@1.1.4
+  ruby: circleci/ruby@2.0.1
   aws-s3: circleci/aws-s3@3.0
 
 jobs:
